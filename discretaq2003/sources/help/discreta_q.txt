@@ -1,0 +1,15 @@
+
+  #####   #   ####    ####   #####   ######  #####    ##          ####
+  #    #  #  #       #    #  #    #  #         #     #  #        #    #
+  #    #  #   ####   #       #    #  #####     #    #    #  ###  #    #
+  #    #  #       #  #       #####   #         #    ######       #  # #
+  #    #  #  #    #  #    #  #   #   #         #    #    #       #   ##
+  #####   #   ####    ####   #    #  ######    #    #    #        #####
+
+  version 1.0
+         
+  a tool to construct q-analogs of combinatorial designs by
+
+  Michael Braun <michael.braun@uni-bayreuth.de>
+
+  2002
